@@ -1,0 +1,68 @@
+body {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image: linear-gradient(to right top, #1d267d, #005ab0, #008dd4, #00bee8, #03eff3);
+        background-position: top;
+        background-color: rgba(141, 217, 255, 0.65);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        z-index: -1;
+      }
+      
+      h1 {
+        color: white;
+        text-align: center;
+        font-weight: 100;
+      }
+      
+      .tulisan_atas {
+        text-align: center;
+        text-transform: uppercase;
+      }
+      
+      .panel_login {
+        width: 350px;
+        background: white;
+        margin: 80px auto;
+        padding: 30px 20px;
+        box-shadow: 0px 0px 0px 4px #d6d6d6;
+      }
+      
+      label {
+        font-size: 11pt;
+      }
+      
+      .form_login {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 10px;
+        font-size: 11pt;
+        margin-bottom: 20px;
+      }
+      
+      .tombol_login {
+        background: #2a7de2;
+        color: white;
+        font-size: 11pt;
+        width: 100%;
+        border: none;
+        border-radius: 3px;
+        padding: 10px 20px;
+      }
+      
+      .link {
+        color: #232323;
+        text-decoration: none;
+        font-size: 10pt;
+      }
+      
+      .alert {
+        background: #e44e4e;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        border: 1px solid #b32929;
+      }
+      
